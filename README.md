@@ -1,6 +1,6 @@
-# Hi 👋, I'm Veena Shivappa Dodamani
+# Hi , I'm Veena Shivappa Dodamani
 
-### 💻 Aspiring DevOps Engineer | Cloud Enthusiast | Linux | AWS | Docker
+###  Aspiring DevOps Engineer | Cloud Enthusiast | Linux | AWS | Docker
 
 Welcome to my GitHub! I'm a Computer Science graduate passionate about DevOps, Cloud Computing, Linux Administration, and Automation. I enjoy building scalable applications and continuously improving my technical skills.
 
