@@ -1,106 +1,194 @@
-# Hi, I'm Veena Dodamani 👋
+\# Hi, I'm Veena Shivappa Dodamani 👋
 
-### DevOps & Cloud Enthusiast | Linux | AWS | Docker | Kubernetes | Terraform | Ansible | CI/CD
+\### DevOps & Cloud Enthusiast | Linux | AWS | Docker | Kubernetes | Terraform | Ansible | CI/CD
 
-MCA graduate focused on **DevOps, Cloud, and Infrastructure Engineering**.  
-I enjoy building hands-on projects around **Linux, containers, Kubernetes, CI/CD, Infrastructure as Code, and cloud technologies**.
+Welcome to my GitHub! I'm an \*\*MCA graduate focused on DevOps, Cloud, and Infrastructure Engineering\*\*.
 
----
+I enjoy working with Linux systems, containerized applications, Kubernetes, CI/CD pipelines, Infrastructure as Code, configuration management, and cloud technologies. I learn by building hands-on projects and troubleshooting real deployment and infrastructure problems.
 
-## 🛠️ Skills
+\---
 
-| Category | Technologies |
-|----------|--------------|
-| **Cloud** | AWS, EC2, Cloud Fundamentals |
-| **Operating Systems** | Linux, Bash, System Administration, Troubleshooting |
-| **Containers** | Docker, Dockerfiles, Docker Hub, Container Networking |
-| **Orchestration** | Kubernetes, Deployments, Services, Ingress, YAML, TLS |
-| **CI/CD** | GitHub Actions, Jenkins, CI/CD Workflows |
-| **Infrastructure as Code** | Terraform, Providers, Variables, Outputs, State, Modules |
-| **Configuration Management** | Ansible, Inventory, Playbooks, Modules |
-| **Version Control** | Git, GitHub |
-| **Networking** | TCP/IP, DNS, SSH, Ports, Basic Networking |
-| **Backend** | Java, Spring Boot, REST APIs, MySQL, Apache Kafka |
-| **Tools** | Postman, Linux CLI |
+\## 🚀 About Me
 
----
+\- 🎓 MCA Graduate
+\- ☁️ Building my career in \*\*DevOps, Cloud & Infrastructure Engineering\*\*
+\- 🐧 Hands-on with \*\*Linux administration, troubleshooting, services, permissions, networking, and Bash scripting\*\*
+\- 🐳 Working with \*\*Docker, Dockerfiles, containers, images, networking, and Docker Hub\*\*
+\- ☸️ Practicing \*\*Kubernetes Deployments, Services, Ingress, YAML manifests, and TLS\*\*
+\- 🔄 Building \*\*CI/CD workflows with GitHub Actions\*\*
+\- 🏗️ Practicing \*\*Terraform Infrastructure as Code\*\*
+\- ⚙️ Practicing \*\*Ansible configuration management\*\*
+\- ☁️ Learning and applying \*\*AWS cloud fundamentals\*\*
+\- 🔍 Interested in automation, system reliability, deployment, monitoring, and infrastructure
 
-## 🚀 Featured Projects
+\---
+## 🛠️ DevOps & Cloud Skills
 
-### 🐄 Wisecow — Docker, Kubernetes & CI/CD
+### Operating Systems & Scripting
+**Linux** · **Bash** · System Administration · Troubleshooting · Networking
 
-- Containerized application using **Docker**
-- Built and published Docker images to **Docker Hub**
-- Deployed application using **Kubernetes Deployment & Service**
-- Configured **Ingress and TLS**
-- Created Kubernetes YAML manifests
-- Implemented **GitHub Actions** for Docker image builds
-- Practiced container, networking, and deployment troubleshooting
+### Containers & Orchestration
+**Docker** · Dockerfiles · Docker Hub · **Kubernetes** · Deployments · Services · Ingress · YAML · TLS
 
-🔗 [Repository](https://github.com/veena-dodamani/wisecow)
+### CI/CD & Version Control
+**Git** · **GitHub** · **GitHub Actions** · Jenkins · CI/CD
 
----
+### Infrastructure as Code & Configuration
+**Terraform** · Modules · State · **Ansible** · Playbooks · Configuration Management
 
-### 🏗️ Terraform & Ansible — Infrastructure Automation
+### Cloud
+**AWS** · **Amazon EC2** · Cloud Deployment
 
-**Terraform**
-- Providers, resources, variables and outputs
-- State management and reusable modules
-- Practiced `init`, `validate`, `plan`, `apply`, and `destroy`
+\---
 
-**Ansible**
-- Inventory and playbooks
-- Linux user and Apache2 configuration
-- Service management and configuration automation
+\# 🚀 Featured DevOps Projects
 
-**Terraform → Infrastructure Management**  
-**Ansible → Configuration Management**
+\## 🐄 Wisecow – Docker, Kubernetes & CI/CD
 
----
+A hands-on DevOps project focused on containerization, Kubernetes deployment, TLS, and CI/CD automation.
 
-## 💼 Experience
+\### What I worked on
+\- Containerized the application using \*\*Docker\*\*
+\- Built and managed Docker images
+\- Published the image to \*\*Docker Hub\*\*
+\- Created Kubernetes \*\*Deployment and Service\*\*
+\- Configured \*\*Ingress\*\* for application access
+\- Configured \*\*TLS\*\* for secure access
+\- Created Kubernetes YAML manifests
+\- Built a \*\*GitHub Actions workflow\*\* for automated Docker image builds
+\- Practiced application deployment and troubleshooting
+\- Debugged container, networking, and deployment issues using logs and command-line tools
 
-### Java Backend Developer Intern
-**Dataphion Pvt. Ltd. | Bangalore**
+🔗 \*\*Repository:\*\* &#x20;
+https://github.com/veena-dodamani/wisecow
 
-- Developed **Spring Boot REST APIs**
-- Worked with **MySQL**
-- Used **Docker** for containerization
-- Worked with **Apache Kafka**
-- Used **Git, Postman, and Linux**
-- Practiced application troubleshooting and deployment
+\---
 
----
+\## 🏗️ Terraform & Ansible – Infrastructure as Code
 
-## 📚 Currently Learning
+Hands-on practice project covering Infrastructure as Code and configuration management.
 
-- ☁️ AWS Cloud Infrastructure
-- ☸️ Advanced Kubernetes
-- 🏗️ Terraform & Infrastructure as Code
-- ⚙️ Ansible
-- 🔄 Jenkins & CI/CD
-- 📊 Monitoring & Observability
-- 🐧 Linux & System Administration
-- 🚀 DevOps Automation
+\### Terraform
+\- Configured a Terraform provider
+\- Created Terraform resources
+\- Used variables and outputs
+\- Practiced Terraform state management
+\- Created and used a reusable Terraform module
+\- Practiced:
+&#x20; \- \`terraform init\`
+&#x20; \- \`terraform validate\`
+&#x20; \- \`terraform plan\`
+&#x20; \- \`terraform apply\`
+&#x20; \- \`terraform destroy\`
 
----
+\### Ansible
+\- Created an Ansible inventory
+\- Created and executed an Ansible playbook
+\- Installed Apache2 using Ansible
+\- Created a Linux user
+\- Started and enabled the Apache2 service
+\- Practiced configuration management using Ansible modules
 
-## 🎯 Career Focus
+\### Key Concepts
+\*\*Terraform → Infrastructure / Resource Management\*\* &#x20;
+\*\*Ansible → Server Configuration / Configuration Management\*\*
 
-**DevOps Engineer | Cloud Engineer | System Engineer | Infrastructure Engineer | SRE | Platform Engineer**
+\---
 
-Interested in:
+\## 💻 Backend Development Foundation
 
-`Cloud Infrastructure` · `CI/CD` · `Linux` · `Docker` · `Kubernetes` · `Terraform` · `Ansible` · `Automation` · `Monitoring`
+I also have a backend development foundation that helps me understand application environments and deployment requirements.
 
----
+\- Java
+\- Spring Boot
+\- REST APIs
+\- MySQL
+\- Apache Kafka
+\- Postman
+\- Microservices Fundamentals
+\- Containerized Application Environments
 
-## 📫 Connect With Me
+\---
 
-- 💼 LinkedIn: [Veena Dodamani](https://www.linkedin.com/in/veena-dodamani-b82265301/)
-- 📧 Email: **veenadodamani742@gmail.com**
-- 🐙 GitHub: [veena-dodamani](https://github.com/veena-dodamani)
+\## 💼 Experience
 
----
+\### Java Backend Developer Intern
+\*\*Dataphion Pvt. Ltd. | Bangalore\*\*
 
-⭐ Building, learning, and documenting my journey in **DevOps & Cloud Engineering**.
+During my internship, I worked on backend development and containerized application environments.
+
+\- Developed and tested \*\*Spring Boot REST APIs\*\*
+\- Worked with \*\*MySQL\*\*
+\- Used \*\*Docker\*\* for application containerization
+\- Worked with \*\*Apache Kafka\*\* for event-driven communication
+\- Used \*\*Git, Postman, and Linux\*\* during development and troubleshooting
+\- Gained practical exposure to application deployment and debugging
+
+This experience gave me a strong application-side foundation that I now apply to my DevOps and Cloud learning.
+
+\---
+
+\## 📚 Currently Strengthening
+
+\- Advanced Kubernetes
+\- AWS Cloud Infrastructure
+\- Terraform & Infrastructure as Code
+\- Ansible & Configuration Management
+\- Jenkins & CI/CD Automation
+\- Monitoring & Observability
+\- Linux & System Administration
+\- DevOps Automation & Best Practices
+
+\---
+
+\## 🎯 Career Focus
+
+I'm looking to grow as a:
+
+\*\*DevOps Engineer | Cloud Engineer | System Engineer | Infrastructure Engineer | SRE | Platform Engineer\*\*
+
+I'm interested in opportunities involving:
+
+\- Infrastructure automation
+\- Cloud infrastructure
+\- CI/CD pipelines
+\- Linux & system administration
+\- Containerization
+\- Kubernetes
+\- Configuration management
+\- Monitoring & reliability
+\- Deployment automation
+
+\---
+
+\## 📊 GitHub Activity
+
+![GitHub Stats]\([https://github-readme-stats.vercel.app/api?username=veena-dodamani&show\_icons=true&hide\_border=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=veena-dodamani\&show_icons=true\&hide_border=true\&count_private=true))
+
+\---
+
+\## 🧰 Tech Stack
+
+![Linux]\([https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black))
+![AWS]\([https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900))
+![Docker]\([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white))
+![Kubernetes]\([https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white))
+![Terraform]\([https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white))
+![Ansible]\([https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white))
+![Git]\([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white))
+![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white))
+![GitHub Actions]\([https://img.shields.io/badge/GitHub\_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white))
+![Jenkins]\([https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white))
+![Java]\([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white))
+![Spring Boot]\([https://img.shields.io/badge/Spring\_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white))
+![Apache Kafka]\([https://img.shields.io/badge/Apache\_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white))
+![MySQL]\([https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white))
+![Python]\([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white))
+
+\---
+
+\## 📫 Connect With Me
+
+\- 💼 LinkedIn: [https://www.linkedin.com/in/veena-dodamani-b82265301/](https://www.linkedin.com/in/veena-dodamani-b82265301/)
+\- 📧 Email: veenadodamani742\@gmail.com
+\- 🐙 GitHub: https://github.com/veena-dodamani  ---  ⭐ I'm continuously building, learning, and documenting my DevOps and Cloud journey through hands-on projects. 
