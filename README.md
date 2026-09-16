@@ -33,7 +33,6 @@ I enjoy working with Linux systems, containerized applications, Kubernetes, CI/C
 | ☁️ **Cloud** | AWS · Amazon EC2 · Cloud Deployment |
 
 ---
-
 # 🚀 Featured DevOps Projects
 
 ## 🐄 Wisecow – Docker, Kubernetes & CI/CD
@@ -56,7 +55,6 @@ A hands-on DevOps project focused on containerization, Kubernetes deployment, TL
 https://github.com/veena-dodamani/wisecow
 
 ---
-
 ## 🏗️ Terraform & Ansible – Infrastructure as Code
 
 Hands-on practice project covering Infrastructure as Code and configuration management.
@@ -87,22 +85,6 @@ Hands-on practice project covering Infrastructure as Code and configuration mana
 **Ansible → Server Configuration / Configuration Management**
 
 ---
-
-## 💻 Backend Development Foundation
-
-I also have a backend development foundation that helps me understand application environments and deployment requirements.
-
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-- Apache Kafka
-- Postman
-- Microservices Fundamentals
-- Containerized Application Environments
-
----
-
 ## 💼 Experience
 
 ### Java Backend Developer Intern
