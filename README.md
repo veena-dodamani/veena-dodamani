@@ -22,56 +22,15 @@ I enjoy working with Linux systems, containerized applications, Kubernetes, CI/C
 - 🔍 Interested in automation, system reliability, deployment, monitoring, and infrastructure
 
 ---
-
 ## 🛠️ DevOps & Cloud Skills
 
-### Operating Systems & Scripting
-- Linux
-- Bash / Shell Scripting
-- System Administration
-- Troubleshooting
-- Services & Permissions
-- Networking Fundamentals
-- Logs & Command-Line Tools
-
-### Containers & Orchestration
-- Docker
-- Dockerfiles
-- Docker Images & Containers
-- Docker Networking
-- Docker Hub
-- Kubernetes
-- Deployments
-- Services
-- Ingress
-- YAML
-- TLS
-
-### CI/CD & Version Control
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
-- Automated Docker Image Builds
-- Deployment Workflows
-
-### Infrastructure as Code & Configuration Management
-- Terraform
-- Terraform Providers
-- Variables & Outputs
-- Terraform State
-- Terraform Modules
-- Terraform Plan / Apply / Destroy
-- Ansible
-- Ansible Inventory
-- Ansible Playbooks
-- Ansible Modules
-- Configuration Management
-
-### Cloud
-- AWS
-- Amazon EC2
-- Cloud Deployment Fundamentals
+| Category | Skills |
+|----------|--------|
+| 🐧 **OS & Scripting** | Linux · Bash · System Administration · Troubleshooting · Networking |
+| 🐳 **Containers** | Docker · Dockerfiles · Docker Hub · Kubernetes · Ingress · YAML · TLS |
+| 🔄 **CI/CD** | Git · GitHub · GitHub Actions · Jenkins · CI/CD |
+| 🏗️ **IaC & Config** | Terraform · Modules · State · Ansible · Playbooks |
+| ☁️ **Cloud** | AWS · Amazon EC2 · Cloud Deployment |
 
 ---
 
