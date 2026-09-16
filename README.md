@@ -5,9 +5,7 @@
 Welcome to my GitHub! I'm an **MCA graduate focused on DevOps, Cloud, and Infrastructure Engineering**.
 
 I enjoy working with Linux systems, containerized applications, Kubernetes, CI/CD pipelines, Infrastructure as Code, configuration management, and cloud technologies. I learn by building hands-on projects and troubleshooting real deployment and infrastructure problems.
-
 ---
-
 ## 🚀 About Me
 
 - 🎓 MCA Graduate
@@ -121,19 +119,6 @@ This experience gave me a strong application-side foundation that I now apply to
 I'm looking to grow as a:
 
 **DevOps Engineer | Cloud Engineer | System Engineer | Infrastructure Engineer | SRE | Platform Engineer**
-
-I'm interested in opportunities involving:
-
-- Infrastructure automation
-- Cloud infrastructure
-- CI/CD pipelines
-- Linux & system administration
-- Containerization
-- Kubernetes
-- Configuration management
-- Monitoring & reliability
-- Deployment automation
-
 ---
 
 ## 📊 GitHub Activity
@@ -141,7 +126,6 @@ I'm interested in opportunities involving:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veena-dodamani&show_icons=true&hide_border=true&count_private=true)
 
 ---
-
 ## 🧰 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -161,7 +145,6 @@ I'm interested in opportunities involving:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/veena-dodamani-b82265301/
@@ -169,6 +152,5 @@ I'm interested in opportunities involving:
 - 🐙 GitHub: https://github.com/veena-dodamani
 
 ---
-
 ⭐ I'm continuously building, learning, and documenting my DevOps and Cloud journey through hands-on projects.
 
